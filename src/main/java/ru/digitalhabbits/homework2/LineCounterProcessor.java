@@ -14,7 +14,7 @@ public class LineCounterProcessor
     private static final Logger logger = getLogger(LineCounterProcessor.class);
 
     private static final int BASE_DELAY = 200;
-    private static final int RANDOM_DELAY = 1000;
+    private static final int RANDOM_DELAY = 200;
 
     @Nonnull
     @Override
